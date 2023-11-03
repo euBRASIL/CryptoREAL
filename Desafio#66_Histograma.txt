@@ -1,0 +1,2746 @@
+Base(2) dobrada x 256 = 115792089237316195423570985008687907853269984665640564039457584007913129639935 ( 78 Digitos )
+---------------------------------------------------------------------------------------------------------------------
+Resumo Geral ( apartir de 2ffffffffffffffff ) : 103%, 125%, 72%, 43%, 281%, 200%, 190%, 208%, 508%, 102%, 87%, 182%, 260%, 190%, 130%, 641%, 508%, 95%, 97%, 123%,
+54%, 169%, 99%, 128%, 224%, 84%, 172%, 131%, 58%, 269%, 293%, 718%, 128%, 145%, 510%, 106%, 152%, 
+-------------------------------------------------------------------------------------------------------------------------------
+
+32%
+===                                                TimeStamp ( 55 340 232 | 221 269 430 920 )          |28641288| = sequência "13zb"
+                                                   TimeStamp ( 55 340 232 | 223 698 671 930 )          |992f593a| = 32%
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000992f593a
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbjHBTns8HGLN
+Endereço Bitcoin: 13zuwtRbRssd3SAZTEFVMnY7n6NYbWhp7t
+Percentual de Correspondência: 32.35%
+                                                                            30000000008641288
+                                                                            300000001992f593a
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+29% = "10 Caracteres"
+===
+
+
+                                                     TimeStamp   (36 893 488 147 662 530 786)
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000e8268e2 |c2S|   2000000000|e8268e2|
+Endereco Bitcoin: 13g4VmxDDK2|c2S|eQjwnNx34N2dhppWgP8o (13,c2S)
+                  13zb1hQbWVs|c2S|7ZTZnP2G4undNNpdh5so 
+Percentual de Correspondencia: 29.41%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002fffffffff8747bb0 |NNp|   2fffffffff|8747bb0|
+Endereço Bitcoin: 13sY1cGC8myFSRvZWZzmWGeVn7|NNp|x6Uw1
+                  13zb1hQbWVsc2S7ZTZnP2G4und|NNp|dh5so
+Percentual de Correspondência: 29.41%
+
+                                                      TimeStamp   (65 178 495 727 132 491 190)
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003888888888|a0c3db6 |b1h | 3888888888|a0c3db6|
+Endereço Bitcoin: 13R|b1h|sbWA4dLCu9DZrSxGjdU25hw7ZGjo
+                  13z|b1h|QbWVsc2S7ZTZnP2G4undNNpdh5so
+Percentual de Correspondência: 29.41%
+
+                                                      TimeStamp   (73 786 976 294 570 375 043)
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003fffffffff|0093783 |7ZT | 3fffffffff|0093783|
+Endereco Bitcoin: 13jcJVQnnPHchq|7ZT|YnP5G6yk2DMarfKxK
+                  13zb1hQbWVsc2S|7ZT|ZnP2G4undNNpdh5so (13,7ZT,nP)--------------------------> (*****)
+Percentual de Correspondencia: 29.41%
+
+                                                      
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000399999999a30529f0
+Endereço Bitcoin: 137wNbQsWRy52x949SgccfKYn6Niodh5ip
+Percentual de Correspondência: 29.41%
+
+                                                      TimeStamp   (55 340 232 221 860 106 624)
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000002aaf2173 : (13z)
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbQoBeygyuzqa
+Endereço Bitcoin: |13z|zxiM8xgCc3mAmFhH63GLPpdezNdh5Zo
+                  |13z|b1hQbWVsc2S7ZTZnP2G4undNNpdh5so
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000000031f82b97 : 1.131%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbS1ruCpBfizd
+Endereço Bitcoin: 13SE1Q3bWxskpZUgtNVFcGbbq5NNoYhTWi
+Percentual de Correspondência: 29.41%
+                                                      TimeStamp   (55 340 232 222 204 168 723)
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000401b0a13
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbUNzxXYqSZXg
+Endereço Bitcoin: 13pbAVgcWVSJQj7giwHPFdmuncyF5TiVsb
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000006d368a42
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbbvbfxaykSyw
+Endereço Bitcoin: 13CbHhLAeQC7Wpu|ZT|ELM2CduPN4K|Pdh|pcs
+                  13zb1hQbWVsc2S7|ZT|ZnP2G4undNN|pdh|5so
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000006e6ad124
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rbc8HFFyqQN5e
+Endereço Bitcoin: 137AJhpbmVCANL7JnHXPEGvya7dgvVh5HQ
+                  13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so
+Percentual de Correspondência: 29.41%
+
+
+------------------------------------------------------------------------------------------------------------------------------------------>  (13zb)
+Equação : Z47 + (2) + Z16 = |2^65|36Q.893488147419103232|==========|73Q.786976294838206464|2^66| = #(36Q.893.488.147.419.103.232) ::: 37Q
+
+|2^65|020000000000000000(hex)36893488147419103232(dec)
+|2^66|040000000000000000(hex)73786976294838206464(dec)
+
+                                                                                  
+                         TimeStamp   (55 340 232 221 000000000 = 02fffffffff854e200   até    55 340 232 221 999999999 = 030000000033efabff)
+ 
+                         TimeStamp   (55 340 232 221 | 138 952 264)        30000000000|9d2048|= 6 casas decimais (start)                    
+                         TimeStamp   (55 340 232 221 | 269 430 920)        3000000000|8641288|= 7 casas decimais (13zb )
+                         TimeStamp   (55 340 232 221 | 541 012 601)                 |18941479|= sequência "13zb"
+                         TimeStamp   (55 340 232 221 | 564 501 104)                 |19fa7c70|= sequência "13z"
+                         TimeStamp   (55 340 232 221 | 739 615 535)                 |246a852f|= sequência "13z"
+                         TimeStamp   (55 340 232 221 | 763 897 248)        300000000|25dd07a0|= 8 casas decimais (final)
+
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000000008641288
+Endereço Bitcoin: |13zb|sqPrS1se2R7ybSDSdGGCnMyJJVLfno
+                  |13zb|1hQbWVsc2S7ZTZnP2G4undNNpdh5so 
+Percentual de Correspondência: 29.41%
+
+
+-------------------------------------------------------------------------------------------------------------> Foram encontrados 2x Chaves em Sequência
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000863e02bc
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rbg7QufWQVAAE
+Endereço Bitcoin: 13RgQ|hQ|fWkNp2h2JTHpP9GVc6iPJTMhTeR
+                  13zb1|hQ|bWVsc2S7ZTZnP2G4undNNpdh5so
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000866327aa                |
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rbg8pYqLiwYmT                                     |
+Endereço Bitcoin: 131KzB2f|WV|DUES|7Z|C8iMfA4JnPxeHH48qo                                                     |
+                  13zb1hQb|WV|sc2S|7Z|TZnP2G4undNNpdh5so                                                     |
+Percentual de Correspondência: 29.41%                                                                        |
+-------------------------------------------------------------------------------------------------------------+
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000a0c43071
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbkYjKBKJSKYH
+Endereço Bitcoin: 13Eu13KAq25c2S78BZnxSkNynZ2beEnXVk
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000111125fddf3
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2V4tQVik7HEEKp
+Endereço Bitcoin: 13zpH3CbUXgc1SuGUG8g8G4hEt4qpzrEsN
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000002220c81a14d
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2YYR6iKUKcP32G
+Endereço Bitcoin: 13obxMSha5GccSaZwteoLGJUnA4N9dejSa
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000011110ff5462c
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp3PCowkfsighCn8
+Endereço Bitcoin: 13zKn9NUxvsNZzNZGZR6aGP5xGDLxUhcso
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003001111110c4c5280
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGtFtPmrZEG5Nzy97
+Endereço Bitcoin: 13fb1e5bWV83B67zJrn23NxnVWvGpyg3bj
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003001111110d5aade3
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGtFtPn2oTWZPpAnF
+Endereço Bitcoin: 13xQ1AY9WVSLjMTuZRxP2cAuf9fNpxvRBm
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003011111110f78b116
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpRHKAtnRPcwtk
+Endereço Bitcoin: 13bHKuVbTGsERmPdNZjeCGautUN4nShVTo
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000311111111090e0e60
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKbVSiqF6CUYK7tDaX
+Endereço Bitcoin: 13vaHVdiJJQTxo7ZsZwjnGuNnLu1Pd7xso
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030222222210979962
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFEa2YyLZcyYv
+Endereço Bitcoin: 13eAQDkUmJccS27GYZm6AcruZvfAvdh5sK
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222220b31adab
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25BNDAbW6981C
+Endereço Bitcoin: 13vhmVBbJ51c2WwHo1TzFdpunqgNcnhKFo
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000032222222309d4acc0
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25uxWGzspxgAB
+Endereço Bitcoin: 13TfSyQuJ5Pchk7Bq7PP2D2VHdNoH1DUyo
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222230c7b9589
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25vQEUiJjMwtq
+Endereço Bitcoin: 138bXqQbKbscJvM1LGbskMjWadNKLex5Fj
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000399999999a30529f0
+Endereço Bitcoin: 137wNbQsWRy52x949SgccfKYn6Niodh5ip
+Percentual de Correspondência: 29.41%
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------> 2|000000000
+
+26% = "9 Caracteres" [23|273329] TimeStamp / NanoSegundo
+===
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000003fa171 (****)
+Endereco Bitcoin: 13bv6LQX45iY2VJzTZ9P68vunSe6BP6Fx4
+Percentual de Correspondencia: 26.47% ( 36893488147423273329 )
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000176447c : (13z)
+Endereco Bitcoin: 13zNdhwbWzgt88KZPZoM2bK4kMFAx1nmyZ
+Percentual de Correspondencia: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000020000000003876959
+Endereco Bitcoin: 13XJaTYbivQcoQTkJZ85Edtun2srpqDDsQ
+Percentual de Correspondencia: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000406c11e : (13z)
+Endereco Bitcoin: 13z2ohQhwbGbGHsGxETCvG4snuL76Fzgs8
+Percentual de Correspondencia: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000045f48b4
+Endereco Bitcoin: 13626SDbR6HcxeEZTXnR2YWmRU43pkGdEd
+Percentual de Correspondencia: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000090c0fed
+Endereco Bitcoin: 13RdihhEAkMA9SdWTsnPvcaexiN6HdZHXN
+Percentual de Correspondencia: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000b04faee
+Endereco Bitcoin: 13vb14ZLWTPc1bJAAdnaTCX2ZdXnpk7rQU
+Percentual de Correspondencia: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000b8f0156
+Endereco Bitcoin: 13Y2wh8aWVhrGpF2KmnvEGRBsdig9wznsU
+Percentual de Correspondencia: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000be28d7e : (13z)
+Endereco Bitcoin: 13zkagQxWyms2PPZ93AYA6QNnNMEhnhu83
+Percentual de Correspondencia: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000e010aa4
+Endereco Bitcoin: 13RbYpWx7ceEwJ7hbZnP2bWMYdmoHDTnbR
+Percentual de Correspondencia: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000e39e9fe
+Endereco Bitcoin: 133q1p7reuiJcS6TTmTPdp7ukjDx9FhBRo
+Percentual de Correspondencia: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000f358c47 : (13z)
+Endereco Bitcoin: 13zj2Cqb8EKXmy77emKC2MwChMANJqhtsv
+Percentual de Correspondencia: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000f358c47 : (13z)
+Endereco Bitcoin: 13zj2Cqb8EKXmy77emKC2MwChMANJqhtsv
+Percentual de Correspondencia: 26.47%
+
+----------------------------------------------------------------------------------------------------> 2|888888888
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002888888888|9c0d7d4 : 205%
+Endereço Bitcoin: 13xSUKjb8VuHgfbZBrnh2eNvXhLN6pSTsh
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002888888888|a09a425 :  52%
+Endereço Bitcoin: 13tq9oczpPjttN7TD5nPvNpP7dNnpjhLDS
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002888888888|aa0133f : 151% : (13z)
+Endereço Bitcoin: 13zF4toCWVXGGJ5w3vuoUZ4uTaALvuh7jo
+Percentual de Correspondência: 26.47%
+
+
+----------------------------------------------------------------------------------------------------> 2|fffffff(9)
+
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002fffffffff|88446cd :  31%
+Endereço Bitcoin: 131pCU8nrmccCSzZ4qz46GCoLd6NpLj1WV
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002fffffffff|88456ff :  31%
+Endereço Bitcoin: 13ea1hQsFVKBUXXAmF8n2htaWrHnSdUes1
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002fffffffff|8fda954 : 111%
+Endereço Bitcoin: 13Fq1DMWRAscQE7ZUXHDmr4VrVeupQE8ak
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002fffffffff|a2cb032 : 209% (13z)
+Endereço Bitcoin: 13zj1SXdH7nYC1QUuGuU2Y4T7LNN6Gh9Zb
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002fffffffff|aa1b206 :  86% 
+Endereço Bitcoin: 13itHxXHW5skXo8ZBZnRsGF2nZXHyCAsqS
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002fffffffff|b0a939a : 155% (13z)
+Endereço Bitcoin: 13zCUbQaPHucYS1ojDooaF1xkMrHpdhJSd
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002fffffffff|b8745dd : 136%
+Endereço Bitcoin: 13dPZyYUW6GcvKwFTRnZAG4USdwe6Ngnxg
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002fffffffff|cea96c5 : 269%
+Endereço Bitcoin: 13qCZUHvjVrsTyC4Ngnh2w4Bj7NHLLbiso
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002fffffffff|dba6c59 : 205%
+Endereço Bitcoin: 13UmBdQTvmny2SdgMZLRUXLZrVNvpdRVzZ
+Percentual de Correspondência: 26.47%
+
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002fffffffff|ecc092d : 185%
+Endereço Bitcoin: 1341LoFbCV5n8N8DdZjPCGcxGpkPoch54r
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002ffffffffff|c9c66f : 251% : (13z)
+Endereço Bitcoin: 13ztPrMAeLsh7CSnEBrP3aJZnWA3p4a1so
+Percentual de Correspondência: 26.47%
+
+---------------------------------------------------------------------------------------------
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000000000|9d2048 : 190%
+Endereço Bitcoin: 13ip1hZmssXZzzh6yZYiZj4uoCV8php8jo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000000|15732b0 : 211%
+Endereço Bitcoin: 13An2zjWwVsDwdDZdbSsfGDuJ3SN2fhkpH
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000000|19ed640 :  58%
+Endereço Bitcoin: 13jbghQUyFCN3ASpTZ8LTWBuq2wGsfh9CH
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000000|4e0311d : 605%
+Endereço Bitcoin: 13HF1krWygrcgs74gS1EGZ45yDNAfdKbsF
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000000|505b24f :  29%
+Endereço Bitcoin: 13cFGQxbK3scxv7KKhud2GALUdXqfNDAD9
+Percentual de Correspondência: 26.47%
+
+
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000000|7b00be1
+Endereço Bitcoin: 138h3hatLv5TxS7ZTTpxEGZ4dB4Yidr6UX
+Percentual de Correspondência: 26.47%
+
+
+
+
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000000|671a764
+Endereço Bitcoin: 133b7DG4cqHRMy7LyfyGXGRsnLNQLLh2ao
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000000|726c1d2
+Endereço Bitcoin: 13FbGiQZF5ycMr7Z5cYyZLPZnnANACLbox
+Percentual de Correspondência: 26.47%
+
+|----------------| 30000000008000000 |----------------| 30000000099999999 |----------------| 13zb até 32% de Acerto
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000000008641288 :  66% ( 13zb )
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbK4Vp36XMn4S
+Endereço Bitcoin: 13zbsqPrS1se2R7ybSDSdGGCnMyJJVLfno
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000000b5fc85e : 566%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbKZSQE6RrhaA
+Endereço Bitcoin: 13EHXkQPgqFGkwSmX43J2fVunCmNk5hpKo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000000bee47e8 : 159%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbKeqbyEf5eWc
+Endereço Bitcoin: 138tDYccjubZ767ZJXrP24eMN3EFeuh5ko
+Percentual de Correspondência: 26.47%
+
+-----------------------------------------------
+|0|b5fc85e  até  |3|8146bc2 ( já foi Minerado )
+-----------------------------------------------
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000000018941479 :      ( 13zb )
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000000038146bc2 :   0%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbT392hJyPzHu
+Endereço Bitcoin: 13y4JXY8AEDz2SDx6ZMhwGQhHd2F9dhb6X
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000003afa1514 : 486% : (13z)
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbTXFA5dNXH3F
+Endereço Bitcoin: 13z7ZhQE9ZsW2D8k9iMV4aWLPACEsyhPdo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000003b468336 : 136%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbTa99ScBEDUL
+Endereço Bitcoin: 13XBUhtwMEmP2sRZGZSY5mKuPBR5qsL5Zo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000003cbb4dc3 : 280%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbTpGX4ZXU7ha
+Endereço Bitcoin: 13obBuyMX5VirT6uhsVPE3RqcdNacdZ5sr
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000003e943034 : 310%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbU8BtdTZQQRq
+Endereço Bitcoin: 13yh1hsbkh89ad7CND16TGGuFvnepjWFHM
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000000044387bcf : 756%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbV4vN9yfoDtp
+Endereço Bitcoin: 13oj1eQVWopgrSDZCRtWutAazd3qpK21wW
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000000044682d78 :  88%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbV6jCD6Lpt9B
+Endereço Bitcoin: 13ux1qv7WQgu2k7NTYdk4cFY6jqNmuR5a5
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000454bcf4a : 237%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbVFMWsREqch9
+Endereço Bitcoin: 13QqFhDJ9RsQnN2FTd5qUZJwnTXFndh5Pk
+Percentual de Correspondência: 26.47%
+
+
+
+
+
+
+
+
+
+(saltou) até |5|59cad4e até |A|b8a7a4b = (5/A)
+
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000992f593a : 135% ( 3x9, 2, 3, 5, A, F )
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbjHBTns8HGLN
+Endereço Bitcoin: 13zuwtRbRssd3SAZTEFVMnY7n6NYbWhp7t
+Percentual de Correspondência: 32.35%
+
+|-------------------------------------------------------| 30000000099999999 |------------------|
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000000|b5fc85e
+Endereço Bitcoin: 13EHXkQPgqFGkwSmX43J2fVunCmNk5hpKo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000000|bee47e8
+Endereço Bitcoin: 138tDYccjubZ767ZJXrP24eMN3EFeuh5ko
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000000|c7020dc
+Endereço Bitcoin: 13wRHysSvV4Z2ZauqZnkTxvP7du6pwm5L9
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000000|d00d777
+Endereço Bitcoin: 13Ni1g7hDCs22S7E8v8PoG7tG5DJWmZJ3s
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000000|e108ebd
+Endereço Bitcoin: 13cu8v38GVBBTD7uyZuX2XagAZNTp4hsNj
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000000|ed7e57f
+Endereço Bitcoin: 13151XbrKjhJbEBZZZRnoR4snd4zwdcpMP
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000000|f140740
+Endereço Bitcoin: 13vPv2LpWxc5bd78Tqr5pVE51srPpdP5sN
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|12b8746a
+Endereço Bitcoin: 13pU1hZY6UiYAS446UnEL64UncH2juhgoy
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|15818886
+Endereço Bitcoin: 13fmkbUH2Vs42KS4ujMHdPYunJN4HDQSQo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|1606391e
+Endereço Bitcoin: 13JKbP4dzYrcJUiw4FNPkVx2ndN8HdMusV
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|1608d9e2
+Endereço Bitcoin: 13yxMEQbqV3f2y7jtJduYH452vjNS7XnqA
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|16310180
+Endereço Bitcoin: 13ab1kQAi8smpR4XXZ4PbE1GudxBvU6a24
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|165faf84
+Endereço Bitcoin: 13WmqUJbWfN329vp4DtK2Y43nrcfagSEsQ
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|170fdc95
+Endereço Bitcoin: 13jEDtQbWV6SMSaRdVSadGe4EMnN4wjtHv
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|173ce17f
+Endereço Bitcoin: 13eb9qHbtL9y1d7Sk3sPJUaQadCgpMGwKo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|176a228f
+Endereço Bitcoin: 133i1Fvjbp3NdQ7oFCnMtbkuGBNwfqV57o
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|18941479 (13zb)
+Endereço Bitcoin: 13zbZtJAWhGPSSDZ4Kn86YDJDcT7pz2Vis
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|18f01a7b
+Endereço Bitcoin: 13DG3h8bhQvyQS5nTLn2tgRAn7QY3Ahzvm
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|197620cf
+Endereço Bitcoin: 13gZGSpX2cMc2SusTZKZzK4FceJQPXSRyo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|19d0e38f
+Endereço Bitcoin: 131jQhQbgphVfedBT6yPHvzJACPZpdCCFW
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|19fa7c70 (13z)
+Endereço Bitcoin: 13z2aptbMVsq9i7cuRpLtzvuygqkTLk5z6
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|1b3c63c7
+Endereço Bitcoin: 13f84hquWqmFkQwZzZfP92oxa4NNJM9WA6
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|1c9143e1
+Endereço Bitcoin: 13gbEHbbWY9apUmLyJvkPVeHnjNrpdfm4k
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|204be7a1
+Endereço Bitcoin: 13xbDhZYWVsLsN6hYnXYNQ6YndWYW74hv9
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|20f29f17
+Endereço Bitcoin: 13iqWoQhWUGc2c2ZTzxL2sm32a6KzetUfu
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|21a58586
+Endereço Bitcoin: 13yf1CKMSVFQ2YRZvBQjDxR6nsNFp8QEGh
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|246a852f (13z)
+Endereço Bitcoin: 13zdYHQsXBqnNp74VZ7cpGRDjiGNpHqSxz
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|24fcfb14
+Endereço Bitcoin: 13naAhdUFVscTyV6J5r7AJtunFfUHMtKsZ
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|25dd07a0
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbPzRB9p7DDdo
+Endereço Bitcoin: 13TX15Q7WCpF2iQgTqRq4zenpeHQpCYYqo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|27ae50c3 : 305%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbQJ3r1tBasyo
+Endereço Bitcoin: 13H4GjQxBVXc4G4Wv3xP2yv2njWMQdfFUD
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|27d2e505 :  29%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbQKSF9FqNW1y
+Endereço Bitcoin: 13fCaFQbraEw696FSfgBoa4XL7ENpdCQs3
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|29303485 : 258%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbQYg1S8vDH81
+Endereço Bitcoin: 13XE1tFAW1qc1S7MPwB54R5oCgwapBt5NH
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|2b991180 : 162%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbQx3qUk94Q8K
+Endereço Bitcoin: 13LAah5QPCpJGCGtTVAP2G32od4nSjkfTo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|328ffe8f : 131%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbS7cbpUMeAEB
+Endereço Bitcoin: 13o1NhrcfVsRMa1efZgPDhprncNGYWbCR1
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|329c05b4 :  38%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbS8539Kwz4di
+Endereço Bitcoin: 13v6U8ubdCZrkj7n3ZMwrwzQnHBNCNM59o
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|334a076a : 152%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbSEfVc7ReZGs
+Endereço Bitcoin: 13Hb12jFTqsswg7fKtVLke1vnn7Nwr8TsR
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|338fd176 :  98%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbSHJtNimKP7r
+Endereço Bitcoin: 13zB1H43s2nLZm7ZGZU92zgLCBVboJhA91
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|341163c4 :  85%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbSNDgDeebRMx
+Endereço Bitcoin: 13VEHhQJRJgc2n7WqUn7DW4t2hp9yAxUFi
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|350862ed : 247%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbSXaZVQ7FkvQ
+Endereço Bitcoin: 13fWzhUBCXsCL3R8TZh8yoVufnS9t455s8
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|36c0163b : 335%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbSpEzjA6iytp
+Endereço Bitcoin: 132bEhpD96yc2SxWeqn4VMdnn23cFEABQv
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|374e42ad : 128%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbSudV6WtXh94
+Endereço Bitcoin: 13TbYBQbRVgv287p64MKE9GcnVmhdVeStB
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|38146bc2 : 158%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbT392hJyPzHu
+Endereço Bitcoin: 13y4JXY8AEDz2SDx6ZMhwGQhHd2F9dhb6X
+Percentual de Correspondência: 26.47%
+
+-----------------------------------------------------------------------------------------------------
+Intervalor sem Minerar (55 340 232 222 | 564986190)
+-----------------------------------------------------------------------------------------------------
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|559cad4e : 240%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbXye26DFR4HK
+Endereço Bitcoin: 13Ep8hQbKVjgbjhnj6TPaG4AK2xGL5JoRx
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|56ab1b7d : 217%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbY9tQhZmTSwz
+Endereço Bitcoin: 13533hHAgmsjWG7Zerrh2GVR6i2ovXV5Tu
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|5873160b : 316%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbYTAd7BptRkh
+Endereço Bitcoin: 13zkRa41uVRPjV7FMZze2YduFU7NUmiNuT
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|591776a0 : 124%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbYZPv1Rp1KYD
+Endereço Bitcoin: 13AqsZ7JbDrc227c6Z3cpGUFnE3ACdmzLW
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|5bf4dcc4 : 504%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbZ3Bt6U7zJMv
+Endereço Bitcoin: 13zbYfKb9sse1SvV5gn4psu8VAKTPdGrgG
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|5cb61b68 : 131%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbZAWd2fBoNu3
+Endereço Bitcoin: 13QqRDbRDnCc5NNCPRCN3Gwv7dZNqdhufo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|5cf2de6c :  71%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbZCpAyPrdgCF
+Endereço Bitcoin: 13dRELQbJaMchSkRTrA2tu49WpWnpoHuT2
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|5fcbc06d : 548%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbZgSDLWTLFRu
+Endereço Bitcoin: 13WbS9KWcWsXYL7GAX86JzmK6d3sDZhBso
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|6088aba7 : 172%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbZobSoyFxAzM
+Endereço Bitcoin: 13ebM6AbaXRcxAZMsZbPJW5uGSN1H5c7Qr
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|60b06220 :  98%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbZq6jRAfZQu8
+Endereço Bitcoin: 13Eb19F94DS32VdnDoMG2gNwnnXNk6nMwo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|62040c9c : 321%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rba3yJDA95LLF
+Endereço Bitcoin: 13D512QbtfBm8UD2UunC2rBjNdmNSJGjSv
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|62f2f246 : 177%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbaD2NwcecxcQ
+Endereço Bitcoin: 13CR9kSXQaUh2SzZTKL75EvuncYtKoJ5KL
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|64539593 : 308%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbaSPTQTZX6hG
+Endereço Bitcoin: 13rfUKMHWpsjdmcMTBS96GJHnFsvM9h3sr
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|6468cb50 :  22%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbaTC5FmCenes
+Endereço Bitcoin: 13AbpTNjjcY1hC7mTZvdgHEsneN7AirfsJ
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|6479a15c :  33%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbaTq5XqNSSpW
+Endereço Bitcoin: 13zh3h6wLSsQNVdHf5sMsb4udxSMYd65KQ
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|651d0785 : 140%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rbaa2DjLWbASF
+Endereço Bitcoin: 13gb1r7bMUzsoSqhotjp22KuWdB6TbrPYv
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|67814d97 : 442%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbayDxhnEHGgG
+Endereço Bitcoin: 137R1hiehVB18S9oT5n394QzABNtuTVeBr
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|6a863d96 : 548%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbbUWqBKY5cTm
+Endereço Bitcoin: 13zJRbMbeV5Lb57EDX1Pc4Dcnnrjpw1Crt
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|6a91a98a :  56%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbbUwwDv8FfwJ
+Endereço Bitcoin: 13wb9qiSW3s2jS7ZS5HbRvN6HnaFpNEszi
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|6be29fd8 : 277%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbbhiZLD1T5jH
+Endereço Bitcoin: 13zyAgkcWVbECnS2TfnGDGZSmviippa3Xh
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|6c9ec44c : 200%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rbbpr5perm3j1
+Endereço Bitcoin: 13zx1LNboeVza1MRTZKPzgbu85sarq6yRz
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|6d156e2b : 178%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbbuLu7dcXgdq
+Endereço Bitcoin: 13za9hebqvv9MKtZYSnV3J4VmVd28hdido
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|6d1695be :  78%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbbuPSJVdrVdB
+Endereço Bitcoin: 13gJ19pTBJ1coWCZnZio124CGK4KGUh5DX
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|6e00942f : 232%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rbc4Fjy8zLp7P
+Endereço Bitcoin: 13ibjowMhVbBjkLSss3A2V4upqM3Unh5cB
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|6fbf2549 : 224%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbcMBGYBoNHts
+Endereço Bitcoin: 136SZhj6DVPcFu75Ukmm2eugDVdyhdv5ZM
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|7152216a : 289%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbccT1G8cNTDj
+Endereço Bitcoin: 13zN7D48F7sH2SPZ66EoeLDKqdjNiTZXEY
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|7252a2cb : 257%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbcnAnhbiXxkC
+Endereço Bitcoin: 13QUVTQAGumUASFZBT7tWgyuxd4DiFh5eQ
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|74d11890 : 475%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbdCN5vQKzJK2
+Endereço Bitcoin: 13xZsV2N4SYL2fmZivnPe46unMN99UE3on
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|77957c65 : 539%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbdfD5qv9nQ6x
+Endereço Bitcoin: 13W71hrn2kub9qbE1ZvpQ9quAdNNWkj1XX
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|79ae0a33 : 391%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rbe1YQ2ApeNN8
+Endereço Bitcoin: 13H1FAXVNVGy3SkZyopP2kSEP42BMkN5sd
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|7ae22463 : 293%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbeDDb4YHSag6
+Endereço Bitcoin: 13zG3hJCvMfckH7wLVn6x1puABkDMEhRB3
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|7aed73ee : 100%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbeDeSxYrqsgs
+Endereço Bitcoin: 13EN1xebDdBU5SAoJZiAGmjMBKFAp4hvs7
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|7d1e3b66 : 368%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rbeau1P1EgPjz
+Endereço Bitcoin: 13B5SxQjWVsPpw7sThRs7QjvD6NEU6WBon
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|7e40e064 : 258%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbemuptmF98wh
+Endereço Bitcoin: 13zbjcwfSk8TkzsF5NnN2CiveGqPksp5so
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|7ec8f7a7 : 147%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rbes4wpzQVfNR
+Endereço Bitcoin: 13R11ZDakVE5yS4KTK8abHbuSUPcNod5Qo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|803f6114 : 293%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rbf7Ft3UEmGgp
+Endereço Bitcoin: 133b1hbE5HwFgNxZTxqTNGjQ3fgg4dQDAa
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|8054b2c6 : 107%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rbf84jpH3AUvW
+Endereço Bitcoin: 13E91wQwjVW2ufTzuDoPA69d6X5oYHh5sh
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|8162bfde : 184%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbfJJJ5RjKKtL
+Endereço Bitcoin: 13g7SV2MtzoczS3Z3knp25KuvvFECa7Ssp
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|8392bebf : 451%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbffX8cPBKrhp
+Endereço Bitcoin: 13zb58kP3VdjAg2EEZBfSGLAnLSNP6okim
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|859908dc : 390%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rbg1AJRsE9jxa
+Endereço Bitcoin: 13zKdFahWVbZp67inGwPoG6uiFt7gQNuVc
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|86ffef40 : 126%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbgEm9Ba613Sj
+Endereço Bitcoin: 13zsWHhTLpH4RS9kjoHa2z7fBRYNtth5st
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|87bf815f : 151%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbgN2CjCKgn1o
+Endereço Bitcoin: 13ab1UBbHVsuN6hGQv2j2xmB2n3aMXuAsh
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|87c62de4 :  56%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbgNGsXAm71p4
+Endereço Bitcoin: 137fbnwNQVYQ2SAmktyB2f4UxdiLfLhwnh
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|88fc24be : 259%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rbga29vjcmMFc
+Endereço Bitcoin: 13d6WhQbYETctSWyqKV1HrzFnvydStR5BU
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|89074d8b :  66%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbgaSgXmFJJc7
+Endereço Bitcoin: 13J6xhrFWDHHQuEf43nP2BguwprouKoSsw
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|894bfbca : 111%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rbgd3dybGkivu
+Endereço Bitcoin: 13z8bh89WVf88pecxYKHfLbunFRdgq6FsA
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|8a146e08 : 142%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbgkeCyBbVrqo
+Endereço Bitcoin: 13iQ1mWCgVDdAbr5vWnbUm4FnWNrMGUN7o
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|8b44b019 : 242%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbgxAwwtUifrw
+Endereço Bitcoin: 13zf91BYKtR2BFCZ2Y2P2sKrkg4upch585
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|8dd1b174 : 428%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbhNvDQRCza8z
+Endereço Bitcoin: 13vu6hVwfzCcHS7wiVYU2GCoMQKxmLo5rs
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|8dec1e3c :  45%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbhPvJ4txes6p
+Endereço Bitcoin: 13ubzhQJveZamS4trZnKvB4DDM3JNHmJPt
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|8e17fa83 :  74%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbhRahRRnrQBR
+Endereço Bitcoin: 13Xe1h8bujxkk3Vt1YUpiTcexdJNpdaymi
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|8e19e210 :  75%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbhRetD1akwiV
+Endereço Bitcoin: 13LSShQpiHHQky7sMZQNDomSFsikpthksS
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|8f8cae12 : 318%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbhfhsbJBkEiF
+Endereço Bitcoin: 13s71iNvnVHcRw7NTZ8RnVApu7tVTvd3sS
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|90364d3d : 129%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rbhn8h4XZy7eC
+Endereço Bitcoin: 13cNiocvrVz1Vt7oNwnPHxZyf4rgpDh5wk
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|91311e8d : 194%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbhwdyRZ35X8j
+Endereço Bitcoin: 13VS9HAbUaCuwScZxQsPXFZQucN2Ngp5sg
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|93d50887 : 537%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbiPFbHikTGWd
+Endereço Bitcoin: 13GnSPovWVsc5wsLNtvqKGN22zpeJvq5yo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|93d50887 : 106%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbiPFbHikTGWd
+Endereço Bitcoin: 13GnSPovWVsc5wsLNtvqKGN22zpeJvq5yo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|9584ade3 : 220%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbifcKjswtboT
+Endereço Bitcoin: 13ib9h2wnUKcrQ3qTB46Gs46wPNNhEmqtE
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|95ef247d :  89%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbijeKjaSCAck
+Endereço Bitcoin: 13dc15sjh4sE8A7ZmwqbmxnGiiDNBDh5cL
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|97accf05 : 382%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rbj2XsVC3p2qS
+Endereço Bitcoin: 13a7sAZbm2scmk8nT7AoqJ26nd5PPdYaH9
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|98a6d95b : 245%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbjC1SmNhuQHo
+Endereço Bitcoin: 13Uj5hQbirY1yJaZTWnhADubXMF2Z8hkkC
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|98bfb19b :  62%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbjCx3z2HsC3J
+Endereço Bitcoin: 13Scd6p4WVsB1N75UUnJiX9aneaNBYorMM
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|992f593a : 135%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbjHBTns8HGLN
+Endereço Bitcoin: 13zuwtRbRssd3SAZTEFVMnY7n6NYbWhp7t
+Percentual de Correspondência: 32.35%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|9a448d49 : 216%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbjTgjpWWsGJz
+Endereço Bitcoin: 13RbThWb8V3QizdccURYsjLu6Z9oTdNyRo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|9bf8a955 : 302%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbjkDHJ6ZLYFu
+Endereço Bitcoin: 13YTVRQsWVWcMSzFzVnUtCU8r3NTbp38Pf
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|9cbaab59 : 129%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbjsZhXAnkFoZ
+Endereço Bitcoin: 13N9GuQqAGseN6JWTZ4yEU4CnDV49BZ5Gw
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|9d46dddd : 121%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rbjxsqx3Pggna
+Endereço Bitcoin: 13VRpKQuW56cCshZ9eJmuDYVttRHEdT5vo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|9ecea3dc : 278%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbkDiwRsmx5yR
+Endereço Bitcoin: 13ELph2fkVcc23BN5GJPJAnGAB3RKdhPXg
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|9f7e37ad : 193%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbkLNr8XVA2aU
+Endereço Bitcoin: 13VevyQsWyehWmjGeEMPshpunUZNgcD5Ev
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|9fc1730a : 137%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbkNvctM6amWq
+Endereço Bitcoin: 13kbFKCfKVPaNSpPTukfroZueJhJHdA6sc
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|a090fdab : 173%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbkWnnPUJYkKn
+Endereço Bitcoin: 13qSoNKxWPccYSbtKZnzt7grnoFjzVL5Ee
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|a0c43071 : 107%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbkYjKBKJSKYH
+Endereço Bitcoin: 13Eu13KAq25c2S78BZnxSkNynZ2beEnXVk
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|a1915f24 : 141%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbkgWHwUfpvvv
+Endereço Bitcoin: 13zj1heA3VrHjTNy76r9cGBTfa2NpN38jh
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|a5ba1ee7 : 739%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbmNrYi2UnzDf
+Endereço Bitcoin: 13cAn29bWAwc29sgPSnu7EKqy7xfAPh8sD
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|a6f39bec : 244%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbmajaNGRCs9W
+Endereço Bitcoin: 13qqhHzzPuscQkeNQ3KNtqpuM8NUpmh5tR
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000|aab724d6 : 676%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbnDFNHnZqNmY
+Endereço Bitcoin: 13zwh7QfC4WXCy8bYbnPsbjKnarLpvXJs6
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000aacb9da9 :  89%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbnE2N4wZ5RYs
+Endereço Bitcoin: 135VkhZbDHHe5LFZT8LXyNCZ199tp6h5eK
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000000ab8a7a4b : 214%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RbnMFsEiGX5t9
+Endereço Bitcoin: 13zZnRup4Nc3TS7fYZnyUXuuTcQiJdeR69
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|Z7|109000000   até   3|Z7|199000000
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000000109163e84 :  15%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rc3zmd34UiM6g
+Endereço Bitcoin: 13uR1VQVukJcfEmgHZvbwJQurA4WwVhesr
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000010ae8de63 : 320%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rc4JTEa8xLe74
+Endereço Bitcoin: 13zGwbNb5wsp2SDUTogui7LoEAG9WRZxCo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000010bbe087a : 160%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rc4SXkt939sJ3
+Endereço Bitcoin: 13LDMqrfWUScdxttqZxksK4wZMVhpsh5k1
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000010c804db5 : 187%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rc4ZtkaVgdb4Q
+Endereço Bitcoin: 13zMJXQnfR9h7DiVTinQFR4ZrxNGMrhQDK
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000010c839527 :  90%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rc4a1xbe3Vf7f
+Endereço Bitcoin: 13z2xUwKPfsFV279TBia1E4UodNJRtTR2X
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000010ec157b9 : 466%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rc4wm3q13gGgs
+Endereço Bitcoin: 13HX1R2HZy3cqJ8531ycKGCWfdKipd9nsx
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000010ef54349 : 100%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rc4yjAdxXerxz
+Endereço Bitcoin: 13z11hRMWnStDAJRRZjodh4LddFpLkGH6P
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000010ffd253a : 273%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rc59jAXaYxibw
+Endereço Bitcoin: 13VabGzbqTVcSN7CYyMowsQzX5NuAd45Po
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000000111727b9e : 317%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rc5PsjnQmwuxZ
+Endereço Bitcoin: 13z8ixBy1yA82CYvT8nrmePGXy4L63M5so
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000001141e412c : 465%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rc5qndMbBewDM
+Endereço Bitcoin: 13vXxyHmp6QFuVYZTZbvziruDdgNUybefo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000011472bae3 : 121%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rc5tzJLBUyc2a
+Endereço Bitcoin: 13zegDXzBvsidSRQ4mkPJ5XunsyXtiTbfo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000000117d70444 : 590%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rc6Ttjxz7s6q9
+Endereço Bitcoin: 13wbNhbf6QssazpuVJXyo1zMzTsNnPh5sm
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000 : 695%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rc74tzk9fPotw
+Endereço Bitcoin: 13xQMkQz5VPcHV2Zir2v2yFMnNWmfYhDJ6
+Percentual de Correspondência: 26.47%
+
+
+
+----------------------------------------------------------------------------------------------------> 3|Z6|1109000000
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000011090ab118 :   7%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Ros6fRLLNQFsQ
+Endereço Bitcoin: 13WUyf2bq7Qc2Se8kZxZnrNqnwfsbSJmeo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000110be90dcc : 488%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RosaVWCf6fRyd
+Endereço Bitcoin: 139bLhQwwjGn2NFuKn4BVhAuCdt42ozbSo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000110cbdaea1 : 228%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RosiYrAKiUPzs
+Endereço Bitcoin: 13sE3urbLVgc2MyvTcysYP2AJdDNnbM7op
+Percentual de Correspondência: 26.47%
+
+
+----------------------------------------------------------------------------------------------------> 3|Z5|11109
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000001110b7d9c67 : 418%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2V4sFiPRRHoVGk
+Endereço Bitcoin: 13KFhsTbWvykVKyLTVnjkGgD8SFN3C44sv
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000001110dcaaac1 : 404%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2V4se36bZ4UZ1H
+Endereço Bitcoin: 13yoBcFS6YEP2avZT2S6rA4HnWNUX5hfg3
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000001110dfa0101 :  35%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2V4sfq98ZUpMrJ
+Endereço Bitcoin: 131bahtGjdem3SVzqPULEe4wWGzvp425Fo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000001110f58e6d4 : 265%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2V4su8Pm5Lvtci
+Endereço Bitcoin: 13zs2PAqKztcRN5WRZKN2QFbmd71pTkY4o
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000111114b71c5 : 392%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2V4tE2AFRihnaQ
+Endereço Bitcoin: 13zDFeMuxVjg2YuZTzyQgnZuYAVZNju5n7
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000011112065c4a : 214%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2V4tM6zQoDhbSe
+Endereço Bitcoin: 13Q88hvB3VXi7X7ZnDb4DWhLmdbfemhCsL
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000011112e502d5 : 160%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2V4tVYN29okyLF
+Endereço Bitcoin: 13znsmH9WKFNtcqSbAnJvG7MndPrUdwt4r
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000011115e98620 : 566%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2V4tzpJN7akLM8
+Endereço Bitcoin: 13pZ15WtWZ2X2GGZEBnCVDukfwNNMAWzbx
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000011116d9905d : 224%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2V4u9utniWHEeX
+Endereço Bitcoin: 13zg59CgU5ZA2tNZUX5kRjYGbdN7nQhZsW
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000111198d82d1 : 477%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2V4uc8kZgyEgzV
+Endereço Bitcoin: 13TRKhxj1jsV2SyZsiUjMS4c5MBNsNvpkv
+Percentual de Correspondência: 26.47%
+
+
+----------------------------------------------------------------------------------------------------> 3|Z4|111109
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000011110a003ed6 : 168%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp3PCnwxkRbDXTug
+Endereço Bitcoin: 13hE1s3Pertv5K7FTWZ6xphRmVm2kgh5so
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000011110a64113b : 133%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp3PCo1k9mPjBxEb
+Endereço Bitcoin: 13KVUhQg8V446n3qZZVneGgHgyNfDdgCmU
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000011110afe99d6 : 135%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp3PCo7bonscEmu4
+Endereço Bitcoin: 13u8qNhbgFtc7C7Yt28F2M4YPbHNMpte2o
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000011110c28271f : 230%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp3PCoJsos77Kamb
+Endereço Bitcoin: 13bbdBJW5VgNo73ZhYbd26x5tM2NpFf5Jn
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000011110eaaf0a7 : 451%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp3PCojEciUqZQKA
+Endereço Bitcoin: 138D1hBcHr471PYdC7M1uWxKLUNNpdessM
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000011110f24de2a : 131%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp3PCoorc8funByw
+Endereço Bitcoin: 13zmGhJh3Vs9hjP7dZ9C3n1uPdgfE65WA5
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000011111a4ee099 :1804% #----------------------------------------------------------------#
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp3PCqgALgPpCVRY
+Endereço Bitcoin: 13zQiZQDWKEwL43qWUo12s5WDbN33dT5wc
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000011111a94f4af :  50%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp3PCqipNKU2V4RH
+Endereço Bitcoin: 13PF8r1oijXV2S75T5a4tzdynXNNWffxzi
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|Z3|1111109
+
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000111111b632862 : 135%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpHmPiwpsr3er2zr
+Endereço Bitcoin: 13zuAhV3RVBsoDuVTBSGRG7WidkqMdQXHU
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000111111c91d808 : 234%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpHmPj9JARzUAKar
+Endereço Bitcoin: 13Br11EDpVMpwtuBTCShvR6B1dNXen75go
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000111111d4953bb : 154% : (13zb)
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpHmPjGFSxvUW7ux
+Endereço Bitcoin: 13zbwXLWSwzchf7MyU1SMY4ADyFNLajYio
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000111111df80092 : 168%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpHmPjNsNeU7aNQw
+Endereço Bitcoin: 13bj5REbqbEc59wZn2U8K7NCiHYspdV5sC
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000111111ec56efb : 203%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpHmPjWeu8kkhMWC
+Endereço Bitcoin: 13zm1XuejZ7vF4Pf6aPP2G4uS4ydTKLN1W
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000111111ee377f5 :  23%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpHmPjXnv26PqVva
+Endereço Bitcoin: 139m1awbYVpCbS7Rxu7V2ZP8njJQ1neqb3
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000111111f66adc1 : 109%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpHmPjcmJktaQrmK
+Endereço Bitcoin: 13jbZD5ahdVm2Sr3ZnYPdGHmriGTDKiUso
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030001111123a92642 : 723%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpHmPkL66Y4GYxAb
+Endereço Bitcoin: 13zv13ybRfxuWU3NqmDQ4bg73VyNTdH5sT
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030001111124411fef : 123%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpHmPkRr8RgJgLmv
+Endereço Bitcoin: 13tMafBboSsco24vxZnPW6HWhn4NiqvRmr
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030001111124a41324 :  88%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpHmPkVbcdMy1ZVp
+Endereço Bitcoin: 13zRo4Qht4bL2jmj4nU39GmUnFffbdh9FM
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030001111125ab42ae : 260%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpHmPkfa5gG1FAwd
+Endereço Bitcoin: 13uHATKbGgUtbZ3ZDavPWGPunmeNc9p6Hv
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|Z2|111111(00000000)Byte
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003001111110058c429 :  58%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGtFtPjrcWTY8kcYS
+Endereço Bitcoin: 1369boQ3WVoHqj7jTKnAYTX8KYFrRd4hKG
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030011111104314dc0 : 703%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGtFtPkVvTot82812
+Endereço Bitcoin: 13ZbLPHbegmk8YdWu7cP2Y3ukAtYcrS5si
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003001111110513a900 : 152%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGtFtPkeVyrALQecx
+Endereço Bitcoin: 13scphZbhTsGeK5LTjKxf5A5n1a9uThQsw
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030011111107362b61 : 410%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGtFtPm1DB8yECoZq
+Endereço Bitcoin: 13HmmjSAWnuskSm2gieCxGcuESNTpMWxxo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300111111078457f3 :  61%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGtFtPm4AzpAffkh8
+Endereço Bitcoin: 13sU1aijRVscgwseVZBVWRq1n7bJSdNv3i
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030011111107b2ebe2 :  92%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGtFtPm5wNaqZLNro
+Endereço Bitcoin: 13z5UTqiuVm52S7ZJMUNv9sc5eq2mnddWo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003001111110bdfb7e6 : 792%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGtFtPmnSXNpMgids
+Endereço Bitcoin: 13ub1hjWtVtV2avEDSVqxbhGZ6NeREtKsG
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300111111106c5874 : 555%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGtFtPnYaJf4nvo2S
+Endereço Bitcoin: 1315mXg5u5sc2VoZbpnxeGQ1TdsBqoZn75
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003001111111243208b : 364%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGtFtPnrR49C7WX48
+Endereço Bitcoin: 13sbVhWBQVANqB9hdKGeHizun4Uq1qh5iE
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|Z1|1111111(00000000)Byte
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000301111111008f9861 :  94%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpREpX9KiyVpYD
+Endereço Bitcoin: 13pkch2siAXhPH7ZT2SMgwJ67XNnpd3nhb
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030111111100c54edf : 129%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpRErZCff6D1FM
+Endereço Bitcoin: 13F4TaHqRZoGnSNAYZrxcSWenXNNFK4wso
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030111111101da056e : 211%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpRF33QCXsTVnJ
+Endereço Bitcoin: 136z1GL5WAZDaSPFGnZrTUMBnLmNrxs5co
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000301111111033ea733 : 234%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpRFGZFpfVJCoq
+Endereço Bitcoin: 13xW4FUboWtXfreZTsCGZG4uSPpFpj9mXw
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030111111103818808 :  78%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpRFK6FVrFY9fX
+Endereço Bitcoin: 13xG7yarWQscs47XPJVv5YBxZPKUGdu5Go
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003011111110422f2c4 : 183%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpRFRD31hct9aD
+Endereço Bitcoin: 13zc1x1QfMNHn37KTZJkaqxUCVxiaKbdso
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030111111104bd943b : 185%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpRFX4uR9DsCXs
+Endereço Bitcoin: 13JpShjzhr5o2SwDaZGkVza2xJTNpbRiTo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030111111105fb8d46 : 293%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpRFj7nm3b2cco
+Endereço Bitcoin: 13zbpgDuWQeygmwQTfXKMBmmbLNNZux5jf
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030111111106eb4590 : 157%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpRFtCgNhnMLtp
+Endereço Bitcoin: 13zmEqQeWBAZHo7PP6uJMLcdTdnhpUr8Co
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030111111108870e13 : 327%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpRG9okics3kBq
+Endereço Bitcoin: 13zb1wh8jArk2vDQJZEY2R2MfvN7UNTpA1
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030111111109c80316 : 237%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpRGMyCVea5vJ7
+Endereço Bitcoin: 13psG2xbVvscoVyaHZcXkibucWNNXpuchP
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003011111110a9f061f : 178%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpRGW7nKQvcSba
+Endereço Bitcoin: 13mj12LzjV6oUSnXqvDLHbZukX1ophcNso
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003011111110b43bd24 : 186%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpRGcMpGCL2ZLx
+Endereço Bitcoin: 13N4WhW6gumXZkaZ49EPtGZundzKSKJFqz
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003011111110e3b0bf2 : 584%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpRH78jDrFES2Z
+Endereço Bitcoin: 131muxK8hVrzoSVZVZGLYJ4Pc1HbDjC5zo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003011111110e836f7f : 131%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpRH9sqPqYqG2p
+Endereço Bitcoin: 13i316ndMvuahSCKgZbPsEyH9UNKpd9UWj
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003011111110f78b116 : 225%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpRHKAtnRPcwtk
+Endereço Bitcoin: 13bHKuVbTGsERmPdNZjeCGautUN4nShVTo
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030111111110558d21 :  37%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKHyjpRHTYL5GcDXNE
+Endereço Bitcoin: 13z7BVTULUPcD31LdbM9ERdXnYNs8dA5s5
+Percentual de Correspondência: 26.47%
+
+
+----------------------------------------------------------------------------------------------------> 3|Z0|Byte( 11111111 | 00000000 )Byte
+
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000031111111100365de8
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKbVSiqDcR2Eux1GUy
+Endereço Bitcoin: 13hSjL6N4VJy2Z7ZT1K7MhbTxECk4Hh9jo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000031111111101b400cd : 250%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKbVSiqDrsqSJGmmGh
+Endereço Bitcoin: 13HL4XNfNysr23aHhA2P2GGp2g8bpnhQCq
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000031111111101e4869d :  82%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKbVSiqDtiV8t3iK2D
+Endereço Bitcoin: 13zEvyXy8SA94A7P4znF2H1znZNE32hvGS
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000031111111106f309d3 : 930%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKbVSiqEjmkGoqdrYW
+Endereço Bitcoin: 13ubyaNanitt2H77ZiHq2zDugsrvTWe5to
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000311111111075b598d :  99%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKbVSiqEoj1wyWQrDS
+Endereço Bitcoin: 13UPajfTTVhDRf7ZLZvs2zD3XieNZHu3uo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000031111111108cda0aa : 341%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKbVSiqF3ks9uiF83h
+Endereço Bitcoin: 13HfJQvVEVCneSfXzZfpbhLkefNEpdN5z5
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000031111111108fce154 :  72%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKbVSiqF5YiwVaRx4f
+Endereço Bitcoin: 13t8srQTbV5V9p7HUZd5qsoAn1zNEaP5uA
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003111111110935a735 : 109%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKbVSiqF7hWPRaGeAG
+Endereço Bitcoin: 13zTn2DbWs5wFvZZ5Pam9GtPX1XdHHh5i1
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003111111110a02c6f9 : 144%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKbVSiqFFUMiGaBShE
+Endereço Bitcoin: 13z1fhQbpWXw2hYquZ28amfuUDF4AEarjF
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003111111110abd007b : 166%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKbVSiqFNXfj8zqB4Z
+Endereço Bitcoin: 13bt1GQcWDKu7q2A5ZQmZGTzfdkcpfmeJe
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003111111110ca0fe41 : 383%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKbVSiqFgsTC7nj4wi
+Endereço Bitcoin: 13HS1PPbcKVDAUczTzZjwL4c6dNWpJRViD
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003111111110ef94c41 : 477%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKbVSiqG5ctM65G9GJ
+Endereço Bitcoin: 13Vb112yHa5M7VEZvZ3ccXruxdNv6ygcqc
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000031111111114835358 :1006%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKbVSiqH1MdG51PiDc
+Endereço Bitcoin: 13zY1huXPMwvJA1R7jLP9Gru72tWYfhGTY
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|111111111
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003111111111|4835358 : 578%
+Endereço Bitcoin: 13zY1huXPMwvJA1R7jLP9Gru72tWYfhGTY 
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003111111111|68ecd4d : 521%
+Endereço Bitcoin: 133tBWUKWVAteVFZuaaQMjpinnNrMdhr1h 
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003111111111|6ab4f31 :  40%
+Endereço Bitcoin: 131H2bQbt1sA2MYhmCwRgh5VnJXHuwh5G9
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003111111111|8987154 : 363%
+Endereço Bitcoin: 133b3yK1Y5FNib7z2rnCfLVnnpg2odhKHo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003111111111|8aa32e6 :  75%
+Endereço Bitcoin: 13zUt5tYWjkc2aYycEt1nKaun4mDEdimgE
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003111111111|9f0cb07 : 289%
+Endereço Bitcoin: 13zb1d1bXXSU2Fkxz1n3nXXuKtKp92kBnr
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003111111111|c0d5caa : 443%
+Endereço Bitcoin: 13YbUeQbLBT8DigqTS75bn7fnewJpuzhqo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003111111111|d040810 : 205%
+Endereço Bitcoin: 13QTihQbR2Pt65HP9WwPGn4uyS6op7km1W
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003111111111|d040810 :  52%
+Endereço Bitcoin: 13QTihQbR2Pt65HP9WwPGn4uyS6op7km1W
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003111111111|fd53882 : 477%
+Endereço Bitcoin: 13fFjdytgPvYcs79nZ4PM9Bun4u7ZdYCXo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000311111111|23d02807 : 745%
+Endereço Bitcoin: 13symBA2Zzjc2N47iVnh28nWnLVwbrhBsp
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|Byte( 00000002 | 00000000 )Byte
+
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000020066f54d :  67%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RcmN3AwKQpece
+Endereço Bitcoin: 13yU6YQDh748BS2ZTHo2vM4oCn1rudSKse
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000000200b0581d : 116%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RcmQpUDmA4dYa
+Endereço Bitcoin: 13kKzxQxsKNc7nXZTZAdnGDM9aPnLeBcsL
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000000202e1055d : 383%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2Rcmn4ob26EwPx
+Endereço Bitcoin: 13YM11hrFVs7vR42K6QLCGHV1dCAgeXxso
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000000203c4adb7 : 232%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RcmvhBW3c7wNS
+Endereço Bitcoin: 138147ySWe4c2S9XTaWvFYtUbcLK5Bh3jo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000020723d714 : 598%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RcnVQMnm5CRq9
+Endereço Bitcoin: 135oEfT8WXJcXS7sNa4Z2MNuwgCmEAQ56F
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000020b825a75 : 733%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RcoDnnSKAB3UB
+Endereço Bitcoin: 13WL1eMCWGuc1R7sTy4Nvp4TwfVHo6w53y
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000020cc4be24 : 244%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RcoS1NoiW95xp
+Endereço Bitcoin: 13oV1Wjunu8Fv87mWmgx2GPEELNCpbWVsm
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000020cd0d8c1 :  52%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RcoSTyppmSJyv
+Endereço Bitcoin: 13zZwPdgE49dJWjZaSnvED4u1AJNpv6QBF
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000020ef76188 : 413%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RcooL2DspgSmB
+Endereço Bitcoin: 13iB1SVnxgv12Sz5mZ79cJPmZdNMTBhFxd
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000020f465376 :  65%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2RcorKYBHWqWzm
+Endereço Bitcoin: 13rbhMDnW77mBqvj5mn1j6CK7cyfpRhLso
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|Byte( 00000022 | 00000000 )Byte
+
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000002200401fbb :  42%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2S2PZECLgBc2EQ
+Endereço Bitcoin: 13tkvsQZFnsc2ZypEPnK56ms1LiNm4yC6o
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000220188d570 : 257%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2S2PmggSDoZhjd
+Endereço Bitcoin: 13nCpRNFrhBLdRxZnneP5G4MDdWNjRmYsE
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000220562b01d : 704%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2S2QR3XeM5Reid
+Endereço Bitcoin: 13qM1FcaWS3Z5Ea57zn52yrtbsN6pdfz6Z
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000022060a117c : 113%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2S2QXPRNy44vUc
+Endereço Bitcoin: 13WbAhjWWpVcwdCQx8XQ2CJuSMEAUVmwsF
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000022076fa636 : 248%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2S2QkwMzK7WMpP
+Endereço Bitcoin: 13ut1WUB1Vvnf4UGMJ5fFG4UnNxmpdxNCk
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000022078d6180 :  67%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2S2Qn4iBrQ2iYn
+Endereço Bitcoin: 13HH1XDkCQxc2S7rpik16WYhsdYyUnhymM
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000002207fb47dc : 139%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2S2QrEGH4mWGfQ
+Endereço Bitcoin: 13vyKMRsurpc2Enj8anPwnUusd4zk6EHsn
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000022081d3ce8 :  61%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2S2QsWuAJS7jju
+Endereço Bitcoin: 13itDhghPFbkb6AHkPhA2GpVneNS8WhCsG
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000022088f243e : 136%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2S2QwqFfBTxedr
+Endereço Bitcoin: 13zQ1oh7sSqGur7ZzZbT2i2SrpDN2tkmr8
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000002208b14835 :  58%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2S2Qy8HuWA2FjW
+Endereço Bitcoin: 13Z7f5QbvuGMc7BtTkCkcQwGzdDrpgj5fo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000000220b860113 : 533%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2S2RSbBrxz4KK6
+Endereço Bitcoin: 13zy1TUbWGMJwmVzfZxZQGzCd2N3xrg3fm
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|Byte( 00000222 | 00000000 )Byte
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000002220008d703 :   6%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2YYP1ikufruwv6
+Endereço Bitcoin: 13wb15adF38c3biKaMnD5RQHuMNi2Ck5To
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000222017a97e4 : 248%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2YYPFjTGaFPWSL
+Endereço Bitcoin: 13neyh9xxVUC2cUPatz72Gqe5uwNpDzPgu
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000022202bf021a : 261%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2YYPU2VrDMrDpW
+Endereço Bitcoin: 1369qKQivVivEGbvTx8P6SP7nf1mZDF5sH
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000022203f9d15d : 267%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2YYPfxRwhe7fQt
+Endereço Bitcoin: 13WEYcLsWVYcGRD7xun12GtLgNn1pweDPv
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000222052f7bf4 : 270%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2YYPsh4NcEAfU5
+Endereço Bitcoin: 13DjWrugaQwy6g7NWan42f4fWdsBbAh5yg
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300000222058f8777 : 133%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2YYPwLAEcB2wa6
+Endereço Bitcoin: 13SyLhWzWb5BhS7BghPeJ49b8N9Ngwh3sp
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000022206d83941 : 248%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2YYQ9ncP6E3Hqy
+Endereço Bitcoin: 13zm1QEwQVgxdSQA5kqMwWu7WeN2pCudgo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000022206f51e01 :  67%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2YYQAt7kHGTUBR
+Endereço Bitcoin: 13XiihQNWru12xPJtZCPmBSs4yfKadx6zm
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000022209bb3c29 : 533%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2YYQdnuwDAd7AL
+Endereço Bitcoin: 13MqwMvbQV7XqNgvTShi2GpKn5uNa5LPps
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000002220c0f4cea : 391%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp2YYR2P2fmxBACf
+Endereço Bitcoin: 13mwqhe2dosQDE7AbMEPSUidYSENjxhWsZ
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|Byte( 00002222 | 00000000 )Byte : 10x 26%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000222200ebb6ad : 154%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp4LpF3iaEUp34FJ
+Endereço Bitcoin: 13vG9u6F8VVXVoBZyZWPFAiCnMzdUhh5pz
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030000222204fa3a7d : 735%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp4LpFj5AeyyRwtx
+Endereço Bitcoin: 13R1HDqWHGp52SkZw8xN2zqCBaNNpg1dWP
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300002222061d9f8e : 226%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp4LpFv7dpE8XExE
+Endereço Bitcoin: 13PbBhmyWRMYGJ4WdznP3Twum9nmMJhxwT
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300002222068b2684 :  98%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp4LpFzGNQ6otXmD
+Endereço Bitcoin: 13NZbcEgaVsfXvYmTir22EvGnJ94o8T5Ko
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000022220960cb92 : 476%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp4LpGTmHyEnkyXC
+Endereço Bitcoin: 13zbgJbL6VqqWvHXyfPAGGdhvdT1pd9hac
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000022220b8ce8b6 : 440%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp4LpGpqbep6n4qs
+Endereço Bitcoin: 13JR11kyKUy6nWR2TZ9PZvMuNdHZUdeaSC
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000022220dee64b4 : 439%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp4LpHDwD34udtVB
+Endereço Bitcoin: 13VnpdQbQhti2zw43p9oWe7yndJuadG5iv
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000022220e977993 : 150%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp4LpHLLqduDG8Q7
+Endereço Bitcoin: 13zTQf6Z2VZZMr7hgapY2m4E4EKNjdwJXJ
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000022220ed7c52e :  92%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp4LpHNnA3GcZD8E
+Endereço Bitcoin: 13zDwtMbbCsvf57ZTUcbaouwixWSpwY8nh
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000022220ee5bb73 : 102%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGp4LpHPJqvT9tWMJ
+Endereço Bitcoin: 13QbhYHb7dLf2L7U1AnFzX4bUxm32nsdsW
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|Byte( 00022222 | 00000000 )Byte : 11x 26%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000222220071222a :  74%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpZ7C19TjF6Kafv9
+Endereço Bitcoin: 13BbPhZbpSsfknXZuZA7CGtt7AvSBTbP2A
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030002222204582a09 : 729%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpZ7C1oKYCsBmJLi
+Endereço Bitcoin: 13Vbb1QbpqDZzS5buqnYtPXyHdvL7z9Ls9
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300022222046afcd9 :  41%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpZ7C1p2uqGvJWLd
+Endereço Bitcoin: 131L1rZbwUBc5X6ZhmuPniiuV6tnHtN5rP
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030002222204ca33ee : 104%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpZ7C1seBupndoRY
+Endereço Bitcoin: 13AM1hbb9vVc2PXZYAWPuVjqR5nMNnkqf5
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030002222205bd602c : 163%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpZ7C22rfiDj4zM7
+Endereço Bitcoin: 13zeLjHthNGeVeeZS1nXqxVunBxNqXb5gu
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030002222206336ed5 : 140%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpZ7C27L9iJJs1Er
+Endereço Bitcoin: 13VJbh6bNVLRiy79DCWR2mjY6HPvLaq5sv
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030002222209d9025e : 652%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpZ7C2ii6WRF4p4N
+Endereço Bitcoin: 13cS6KKwWksm2denbJnDaRFun8TtzV6bto
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000222220b9eb825 : 350%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpZ7C31uKht3ZoT3
+Endereço Bitcoin: 13zbjtmbWHtcDnQYvZ8XoqDnuYCtpfF95A
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000222220c10bcf4 : 124%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpZ7C36DvsznZzdb
+Endereço Bitcoin: 13iR41VkHkKa2SQZBZL76GMuNKHQ7ofnsE
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000222220cbb0f2f : 136%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpZ7C3CgHX11MeYa
+Endereço Bitcoin: 13dJ6hscUL1V2SzCRqduuGfEMdpNpCySSi
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003000222220fb5917d : 500%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGpZ7C3haEZexK4ng
+Endereço Bitcoin: 139bRpgjFQNVCHPzxEkPMdSundUnp92jro
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|Byte( 00222222 | 00000000 )Byte : 18x 26%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300222222001f48f8 :  21%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCBxb6Zyb1khZ
+Endereço Bitcoin: 13e4wBroWSsADN6ZZujV2A4CYJZHBuC5jo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030022222200aa6799 : 112%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCC3rscXLkASj
+Endereço Bitcoin: 13zzJk2yWtE6jBkeSRWPZuunn5P4Vdhk9o
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030022222200cb4dde :  33%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCC57Bf5rmaCj
+Endereço Bitcoin: 13JeeFoiBV7bd17iSvzp2J7Bnd8rDYk5sE
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300222222016732c8 : 135%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCCB1q8ZLVvTx
+Endereço Bitcoin: 13hB14bhWo8Q2Ep53Znok8E4uapaRdhmey
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030022222202563fbc : 192%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCCL5FRhF17sj
+Endereço Bitcoin: 13zq8XQbsAvcjSxfHLncnkzg1dGF69GJ7j
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030022222202c738d4 : 166%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCCQMZHaSePDM
+Endereço Bitcoin: 13Wb9o5XHJu59iuekf4W2G4huoNiSVK5s2
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003002222220411311a : 282%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCCcrp1gijgco
+Endereço Bitcoin: 13zSQhG69F8NoS7NTHQamgsJUGj8NwoNso
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300222222044cfe3c : 122%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCCf8FWeyj9U6
+Endereço Bitcoin: 13bpet6hqbLc2s7QTaNPHG6JXqNtYTVRH6
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003002222220456ba9d :  28%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCCfVeeLR7uVn
+Endereço Bitcoin: 13qRYwcRgVaj2LAZUhnA9FdupUN61GG5pD
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300222222052f0798 : 170%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCCoh4mgkWGL5
+Endereço Bitcoin: 13KKJWLbQascqs6meQ5qYG4uCQTKrdAYz7
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000300222222063e6336 : 248%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCCyyVcjVTPG6
+Endereço Bitcoin: 13XDKpvAkpnyFRzWXenbSG41MJCN5dJzso
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003002222220872e12a : 417%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCDMNDMMK2vJs
+Endereço Bitcoin: 13TSk5QxSgsjg18qNMMbqhzundKXp6j4sB
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003002222220a3e10e4 : 318%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCDemUgKapDNz
+Endereço Bitcoin: 13BaFhQyK2uo1QrwTHdmF9WPXXNFDKh5sj
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003002222220af4d61a : 138%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCDmhCLfKrpeE
+Endereço Bitcoin: 13ibtaCkNV7v2TETpZxH2H4mwJRNsumzXQ
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003002222220b4c3354 :  95%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCDq1DZvQMSCB
+Endereço Bitcoin: 13tb7hGbJEQt4H55EMvD2GAuNA5hkbS513
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003002222220dda3325 : 429%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCEFnfjtip1Th
+Endereço Bitcoin: 13AVAhMCpNsgkT6ZyZDPR4okfdQNqbAdPn
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003002222220ed5fe20 : 194%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCERL6Ro21JZz
+Endereço Bitcoin: 132w4yryUysJ1SjZVZc72d7u8kNRskNnUt
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003002222220ed71dbe :  94%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKGxVMCERNZetcx6Ym
+Endereço Bitcoin: 13T8FrYLWVsG2YQLT39g7du8Q2RNPpd56s
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|Byte( 02222222 | 00000000 )Byte
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030222222201b8a30c : 289%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFC5m5SBAmSEy
+Endereço Bitcoin: 13gtjhd8XPKDYS7jsZnvHtrfaS5uATN5zo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000302222222027a5609 : 216%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFCD6pJiPDKje
+Endereço Bitcoin: 13M9Eo3GMXsHBYCmCPWGN84undaNbcehZo
+Percentual de Correspondência: 26.47%
+ 
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030222222203bca838 : 227%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFCRKFxYpcZcD
+Endereço Bitcoin: 13KpyhehkjqSiS7ZWK3P1U3AnbwNCknnPR
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030222222204102ddb :  82%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFCUUqPZg644v
+Endereço Bitcoin: 13FfzhQcSVPoGR7SewwPeV4eA3RNa29eWH
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000302222222046dda7d : 143%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFCY2j3XW9XaR
+Endereço Bitcoin: 13LGcrebXLfW2SAY6kJo2rBunph4cmyHsC
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000302222222048485fd :  58%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFCYtZ1ySBb6g
+Endereço Bitcoin: 13z51C5PaVe2oSW4jDnZ2hYvRFxprdNEcw
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000302222222049e5416 :  75%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFCZsGfJM2R2B
+Endereço Bitcoin: 13Hb7hJ5EqvX5S2EcTDgUCQkWdbDpct5Bo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000302222222071a2b25 : 492%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFCyxotSDSn25
+Endereço Bitcoin: 13GfmCU4W2Bc21XArKk428UHNSNXpdTkJH
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030222222207477b86 : 121%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFD1gQY5d5HvQ
+Endereço Bitcoin: 13JCbCQuQzak2u5KTnufGehuEQd6Kdg5So
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030222222208de1d0e : 288%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFDH6A4oeNQiU
+Endereço Bitcoin: 13mbmXLxy6J32G8mji4PaGBtGMTJpKhrsx
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030222222208e480ed :  92%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFDHLCgdYALvF
+Endereço Bitcoin: 137PAhQfW1seQeFGTZuRsx2PSuuzSmh9Bc
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030222222208e638bd :  93%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFDHPyhLHba26
+Endereço Bitcoin: 13BrzhkPWoWcak7a8ZuoDgGVRgiUpahsG4
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030222222209ef2402 : 267%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFDTSFiGg5ZnC
+Endereço Bitcoin: 13kcmc4JzEfdwS7cZ2ow9G4uT3NjFdv88U
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030222222209ef2402 :  81%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFDTSFiGg5ZnC
+Endereço Bitcoin: 13kcmc4JzEfdwS7cZ2ow9G4uT3NjFdv88U
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003022222220b69de69 : 315%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFDhngAzWZA12
+Endereço Bitcoin: 13zbGRJMiVcYzPgPCsj7rGUDpXRSpdvusd
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003022222220b8eaeca :  39%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFDjBbEqNVAwp
+Endereço Bitcoin: 13Ws1AaCWUpc4ScZ62mPMVnLvjxAasd5cU
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003022222220b8eaeca : 346%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFDjBbEqNVAwp
+Endereço Bitcoin: 13Ws1AaCWUpc4ScZ62mPMVnLvjxAasd5cU
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003022222220e18353b : 165%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKK9TDFE9oD3bdJnEr
+Endereço Bitcoin: 13H3ihfaW8u9vSLTTx3ttMpUyCcNpuk5rD
+Percentual de Correspondência: 26.47%
+
+----------
+29% : 484%
+----------
+
+----------------------------------------------------------------------------------------------------> 3|Byte( 22222222 | 00000000 )Byte
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000032222222200390e1d :  37%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs259XmyqGKpUwh
+Endereço Bitcoin: 13zVFhV3iM1o2f3TXbdPznBuQ9tNdShai9
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222220333db9b : 537%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25A2gaKY1u87Z
+Endereço Bitcoin: 13zbPZQhpZuRK7rX5ZXSDa4FkQ3w4dJesY
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000032222222208727461 : 917%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25AuZXFyqz7Sr
+Endereço Bitcoin: 13gmibyj5VtoKSHmTZj7SW92HENaSjj5sA
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222220896056c :  40%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25AvuhJZFWW2r
+Endereço Bitcoin: 13nb6uLctY5kZN3gnZ9E2sLu4dtoZdh1xj
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000032222222209931117 : 206%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25B6VsgndVTvi
+Endereço Bitcoin: 137axhdKWVEc11bL183ZWY4rodNCYHRhEv
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222220b28d727 : 272%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25BMsjvnerNLE
+Endereço Bitcoin: 13FRqCaTWVsb2frUeZyP6iLtXa4NYFBcCq
+Percentual de Correspondência: 26.47%
+
+-----------
+29% :  78%
+-----------
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222220bd5cbb9 : 186%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25BURtNFNDLvT
+Endereço Bitcoin: 132bZxYAWVon2C7PePnxR3AR3eAmPVLxxo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222220c3515e7 : 148%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25BY3KxSJCg89
+Endereço Bitcoin: 13MbA1QQnPRc2S4QdZwS2t6695o8HF1cYX
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222220ce826bd : 165%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25BepuMRdjpHD
+Endereço Bitcoin: 13RVfhQ5bVeV4gbtfoCQSXcDnuNNmdB26r
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222220de88649 : 168%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25BpYPwrouv5K
+Endereço Bitcoin: 13GvC4i7WV7c2Eo2CF6whw4wAmNjTnKosW
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222220ed2e778 : 222%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25ByRYnPXNGTf
+Endereço Bitcoin: 137b1gQ8HnsskyPBsekKwGGNcMLNszqXs3
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222220efc4093 :  49%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25BzzRrjBAmnh
+Endereço Bitcoin: 13XcZVHp3Zs8LSh9TZEiKD4dn7KA6345fj
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000032222222210f4fd35 : 381%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25CL7oyWZdXoy
+Endereço Bitcoin: 13NbAha1GHmSBZ43yZJPoGhGNnGN5RjUsL
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|222222222 : 16x 26%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000032222222222|57a464 :  35%
+Endereço Bitcoin: 13by6vpgW5ssS47ap66vZ5PuidcgpAnYsj
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222222|463f4fb : 379%
+Endereço Bitcoin: 13qFihh58V2cq1iafzjG9UGEwdGNpjUWsb
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222222|5004780 : 181%
+Endereço Bitcoin: 13mbEpb9xBfR2K7upHbuNSuugNNTTEK5ro
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222222|519a9c7 :  98%
+Endereço Bitcoin: 13zBhX6JWdKc252GH7fPndmyFQNZHgiRs4
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222222|57a2ba3 : 161%
+Endereço Bitcoin: 13z16hrdWHscMbJMJZ78Me4NodmViuv1Sv
+Percentual de Correspondência: 29.41%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222222|8600124 : 547%
+Endereço Bitcoin: 13WP3cQbJDxP2U77SnJPo4RtKgBWHgh5it
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222222|8f33895 : 144%
+Endereço Bitcoin: 13znX5RbMmhccuiVT8nPG24hgn6ujLSaVQ
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222222|964414e : 118%
+Endereço Bitcoin: 13Au19j8DZscyEU9TZZYsG5FceWkC7P5wJ
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222222|beb84b6 : 442%
+Endereço Bitcoin: 13zJVqQPTVESbzqgTfcj6oFutZPmPdp2Yo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222222|dde3943 : 369%
+Endereço Bitcoin: 13GL1iQzoBBf2DxVTzdP5GXmwYNF8W5MGS
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222222|e9c9c1c : 194% 
+Endereço Bitcoin: 13GbJDAJNrXLmaAoeZ6Pns4Bfq9Lod35to
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222222|eb15ac9 : 107%
+Endereço Bitcoin: 13ZbRh3b1RghWP76zULd2Cn3jdDCadPKpU
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222222|ec435d6 :  19%
+Endereço Bitcoin: 13DNN2Eb2UncMtyD3THPa54YoQcNqHh5yu
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222222|f36a84e :  94%
+Endereço Bitcoin: 13Gn1FpFCV6Aim71qZnHes8unpmgYpzxUG
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222222|f9c6476 : 161%
+Endereço Bitcoin: 13QwE3QrWYM4jH94uqEP28DtLEN82qh5u1
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000322222222|30cc0fed : 260%
+Endereço Bitcoin: 13dFUGNKSFJotVCZoZnxCSgCHFNNpDhTWS
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|Byte( 22222223 | 00000000 )Byte
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000322222223019f6022 : 272%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25taskGRJroJe
+Endereço Bitcoin: 13Fb7LM2qBZg2Y2ZTp1V2NizNaPsXC17so
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000032222222301b23fdc :  85%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25tbbEKpZwfj6
+Endereço Bitcoin: 13zU1bQk6xKBASKST9cDCGKFnh3M8U8tJk
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000032222222303365179 : 339%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25trJBYE8o6TQ
+Endereço Bitcoin: 13zbuhJ8WFVzhShKPVTBDU7jzcee6Rn5Ao
+Percentual de Correspondência: 26.47%
+
+-------------
+29% : 1.149%
+-------------
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222230ab4d8f0 : 196%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25v6zzdzEFgTQ
+Endereço Bitcoin: 137MKT3TKWeY9S7ZY8MPeGR8jrNSY9hLe2
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222230c7b7457 : 394%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25vQECBWbWiHL
+Endereço Bitcoin: 13os1mRHWVsQEZtHrZ33PLrynkrNeN8Jnp
+Percentual de Correspondência: 26.47%
+
+-------------
+29% :   94%
+-------------
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222230cabc275 : 126%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25vS4N9Zdj7A3
+Endereço Bitcoin: 13gwFHzbpnscwS7zTykRCZ3TUUMHnmhr86
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000322222223101ec03d : 605%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25w1X8LxENbSo
+Endereço Bitcoin: 133i1hb6CMsHQS7bWMp3gGp7ZpTSpvKgyJ
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222231105364a : 188%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs25wAFfegH472A
+Endereço Bitcoin: 13HY1bcvWWmZrS72TrqrAWCanSzF8Bn5SB
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|Byte( 22222233 | 00000000 )Byte
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222330156eec6 : 225%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs2HheTiE4EUfuo
+Endereço Bitcoin: 137Q1DQSWysZSSoZsa48rUbdrZVNdvLvhL
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000032222223301809351 :  52%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs2Hhg3Es6dp3kG
+Endereço Bitcoin: 13zGzGQhizzFPHN7e1pPFGVAndAdzq1Vpo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222330192d194 :  64%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs2HhgjLX13CMTr
+Endereço Bitcoin: 1343Kh9bMVt2RaN4TLbCkG5QnKYyzBTrzo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000322222233073603b0 :1010%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs2HidRPsDHWCaJ
+Endereço Bitcoin: 13dwBESbWxac5N3Wb5nX2FpwVVvbvd4mvo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000032222223307381c32 :  11%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs2HidW12ozh1Mh
+Endereço Bitcoin: 13vE1NohWV4LUKyDT3mw2eLuNexmHRhKcQ
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000032222223308cdf9cf : 277%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs2Hitt4zvo4evG
+Endereço Bitcoin: 13zbZh12NAiEFDairZXqgoXund6ZtXs6qa
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000032222223308cdf9cf : 224%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs2Hitt4zvo4evG
+Endereço Bitcoin: 13zbZh12NAiEFDairZXqgoXund6ZtXs6qa
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222330ad521a9 : 217%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs2HjEZ9Eh7FA3A
+Endereço Bitcoin: 13PLZgQ7QTYNVx7dZZnPCLLkUuuNcV7gsh
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222330be247ec : 194%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs2HjQkiYtSH192
+Endereço Bitcoin: 13jb1QkLWVEw6siNYDbQShd2tCTNpt4ksw
+Percentual de Correspondência: 26.47%
+
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003222222330edda679 : 594%
+Chave Privada (WIF): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipKvAs2HjugZGqD99Rz
+Endereço Bitcoin: 131ijvBQWsJWnLnZ21hh2gZunbKXpduMHL
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|333333333
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003333333333|54d79db : 353%
+Endereço Bitcoin: 13QNV59gWYAcjcyXGGgP2Y4unyKwxzXgj8
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003333333333|70f5d48 : 295%
+Endereço Bitcoin: 13zg1bcTW239Tcj2TZnMX9HqnVCfLNiSj4
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003333333333|74ab15e : 134%
+Endereço Bitcoin: 13Tmdd2As9s5WSCZTkvUYBPyEdNnHLo1si
+Percentual de Correspondência: 26.47%
+ 
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003333333333|77abb3e :  65%
+Endereço Bitcoin: 13Fb1PQb15Lwttpfb5ooSEBuBPYipF7asm
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003333333333|815eefc : 167%
+Endereço Bitcoin: 131zKNiPWUsc29XMTfj6NatbnbmopUYMjv
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003333333333|9b868fc : 341%
+Endereço Bitcoin: 13YSzhFURHsM23gw7nUQCGgEbHNkqdPvsD
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|444444444
+
+----------------------------------------------------------------------------------------------------> 3|555555555
+                             TimeStamp : |61| 489 146 912 420 396 972 (Z18)
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003555555555|89fffac : 214%
+Endereço Bitcoin: 13LUAwvtRY9E2cLZTDhM2qcuytNZHAn7uo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003555555555|9970124 : 214%
+Endereço Bitcoin: 13vNp3dqWv1j2S7BdjnzS44SvnKVRdNsa9
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003555555555|9ce826d :  51%
+Endereço Bitcoin: 13C81CQDSmsSoXsYtbz2YGL274mVtdr5eo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003555555555|aae2e00 : 197%
+Endereço Bitcoin: 137b1fZwfJsS2Ctuhj622eWsTyuN6gK5QH
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003555555555|b327868 : 184%
+Endereço Bitcoin: 13ho5h4zWgjE8WFZgZ91rGKfnWsFKdaK8V
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003555555555|d5417de : 441%
+Endereço Bitcoin: 1325ehGfWKMc252ZeZLpdBjYmhWWH295Qq
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003555555555|ecadb36 : 287%
+Endereço Bitcoin: 13DsQTQLXcRk637omrF9HT8W1KCNpFP5so
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003555555555|f1de6a7 : 141%
+Endereço Bitcoin: 136vmtQY4VKcemieT3nNQVJunTubhjD9hE
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000355555555|607282fe : 265%
+Endereço Bitcoin: 13zb1zmcKMWEfXvfiVtA6U4EnuP1uKhKsb
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000355555555|62a52b77 : 433%
+Endereço Bitcoin: 13VbndaHPV8cgkTwTZn421kSUmVJbViFoF
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|666666666
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003666666666|7d2bf95 : 239%
+Endereço Bitcoin: 13zTEKpCW2LhLPCEk5kP3eCuUuRNwdhtpf
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003666666666|a9b0f33 : 506%
+Endereço Bitcoin: 13KtMhQZtcWZHMsp5ZLKh5rumueNJdhVkv
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003666666666|c323621 : 272%
+Endereço Bitcoin: 13zfxfu1BzAc2hoZTgdFxr4mHdnP1pYPDY
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000366666666|7010eb70 : 722%
+Endereço Bitcoin: 133TD3cPwY922s8ZT2KZ8LsFodNNpg9pgZ
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000366666666|7146ee4b : 225%
+Endereço Bitcoin: 135VVUBPhEsctUDkTZeuJq2pudyMPFH5sK
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000366666666|72e11f14 : 294%
+Endereço Bitcoin: 132R1BQKWh5Q2u8ZBSezSAtirRiN7dxP25
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|777777777
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000037777777777|f03ba3 :   79%
+Endereço Bitcoin: 13mHpjQbZVBcaEFXPap4wrUqrvNEjoP5Go
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003777777777|93e074f :  298%
+Endereço Bitcoin: 13ND1XpvcjYXTSiHDHncCof7nZND1Fhppo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003777777777|acc00fd :  359%
+Endereço Bitcoin: 13zb53BHSmTXjSA47onzFy4mcdpbYeDsxo
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003777777777|ee541c0 :  746%
+Endereço Bitcoin: 135yJSb2b8scQG8hn6nw2GqsomyJiAi7so
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000377777777|8567d1b9 : 1139%
+Endereço Bitcoin: 13NNsoy3sRy2mz7Y5JPPxa4unQNFRWfJ5o
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|888888888
+
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003888888888a72f81e
+Endereço Bitcoin: 13zrMnxbdVUu2RPsSZ7ws53uDVi5HuY1sv
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003888888888b9cfd91
+Endereço Bitcoin: 13UzMZR7W9td2ScaTBzjY2mendKBod13ZW
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003888888888c40e7a3
+Endereço Bitcoin: 13zB19jCUx2H9SWzTZnKYL67Gs6xp3unuv
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003888888888d7dc26e
+Endereço Bitcoin: 13ebEbE8WVhtBwCBvZgLv3EuQSoNXpCzst
+Percentual de Correspondência: 26.47%
+
+
+-----------------------------------------------------------------------------------------------------> 30|88888888
+
+
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003088888888|c45319c
+Endereço Bitcoin: 13FVUJWUmgSwg8kZjZ6PRG4wyemN3dTzbn
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003088888888c660994
+Endereço Bitcoin: 13EbmhQJUkqMpTsKRZuWM84qnBJD2ztkst
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000308888888915c912d
+Endereço Bitcoin: 13zYSAd1WoWc22f5ALjoBgLu6RNsYdWNez
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000308888888920c203d
+Endereço Bitcoin: 13nbKx2c8VveT7fZ8iXP2SzqbM3NGuhLbg
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000030888888894aa1d9d
+Endereço Bitcoin: 132t17gNHSxc2fGoTD8wXG4Wqj6ND36XQA
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003088888889af66a16
+Endereço Bitcoin: 13ab11oBFVvyF6TyP3wPci49hJAcXef5no
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003088888888abfddfe
+Endereço Bitcoin: 13zh1hgscp3EYSsUTkudhCoNH7zNHmjLsY
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003088888888b0927b9
+Endereço Bitcoin: 13HbCWb6P9n7i9bZyZn2YGEunmaoF3cuYA
+Percentual de Correspondência: 26.47%
+
+----------------------------------------------------------------------------------------------------> 3|999999999
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000039999999999|d3454e :  38%
+Endereço Bitcoin: 13sMEhQbdwQXkSfbAXuQzqJunGNMPi1P7P
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003999999999|ac4d504 : 196%
+Endereço Bitcoin: 13htian1Wwsp2SKZWVLPufor9UMhKhsMsz
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003999999999|affe3a5 : 135%
+Endereço Bitcoin: 13eb16DyTY56iS7Z2Ck4PPSujzN3kf1uaz
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003999999999|d4d31dd : 421%
+Endereço Bitcoin: 13D3k3EbWFr29hAZbU1vcy4cCdNxwjxUsF
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003999999999|ecf527d : 253%
+Endereço Bitcoin: 13qanHwbW1sRUu3ZDgkY2L4rHBuHqaP5ri
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003999999999|f108846 :  96%
+Endereço Bitcoin: 13zwuhcv54sUCr3dtGfJCAJurFNESkhx3o
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000399999999|a093a43e : 349%
+Endereço Bitcoin: 13ELC98bhVhch33B4uiJrv8jTdN2pdFL1j
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000399999999|a285462f : 376%
+Endereço Bitcoin: 13uM1tCbWJPhnGTGyZqPhzejFjEqrdhMv2
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000399999999|a292694c :  84%
+Endereço Bitcoin: 13NbArQNHVsEaU7Zz62m7U9b6pdbQdcNvE
+Percentual de Correspondência: 26.47%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000399999999|a2dd6d1b : 133%
+Endereço Bitcoin: 13nvphQxsLucMsx5Tbxq2ZMmgdpMWrx7sA
+Percentual de Correspondência: 26.47%
+
+
+
+
+
+----------------------------------------------------------------------------------------------------> 3|fffffffff
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003fffffffffde26963
+Endereco Bitcoin: 13PxshQBzLrALWtGjanP2GeFNddk7RmBoG
+Percentual de Correspondencia: 26.47%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000003fffffffffd43dba1
+Endereco Bitcoin: 13Gcn6axWVxcPFwZETnH3GZPcd6cX6MBp6
+Percentual de Correspondencia: 26.47%
+
+---------------------------------------------------------------------------------------------
+23% :: 1 855 274# || 368934881474(19209429)|----------| 368934881474(21064703)|
+===
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000020000000000019ed5
+Endereço Bitcoin: 13uRaPQbWPpwPPEtKRnGVE45aUcSi5Fz5o
+Percentual de Correspondência: 23.53% ( 36893488147419209429 )
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000001dedff
+Endereço Bitcoin: 13mbeW2ziGs9k57jTm492Mxdj9rN4frphK
+Percentual de Correspondência: 23.53% ( 36893488147421064703 )
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000003a1aef
+Endereco Bitcoin: 13yqTEQqbv5tfaGZJZb82t1pkwerWZhkZo
+Percentual de Correspondencia: 23.53%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000053807d
+Endereco Bitcoin: 13MvBU4Z38hcDknvHs46pG4unpx8U83mZo
+Percentual de Correspondencia: 23.53%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000058f2f2
+Endereco Bitcoin: 137MC7VjYN9J247qRMJ1mG4A4foNrAMEsM
+Percentual de Correspondencia: 23.53%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000005f9166
+Endereco Bitcoin: 13BbJiwDGTZD2S3ZSKJhLGgYUpmwpHxA8t
+Percentual de Correspondencia: 23.53%
+
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000006b5a79
+Endereco Bitcoin: 13zCAo1NPcsc7bq6FihHkZ4oKsBwFMhrXo
+Percentual de Correspondencia: 23.53%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000072269c
+Endereco Bitcoin: 13WbihLPSLvr51svjZeiaGqE6QNbpFSpMT
+Percentual de Correspondencia: 23.53%
+
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000076cd70
+Endereco Bitcoin: 13YcthQk2cEDdFSZDQM6X8y4b4sNcdhJFy
+Percentual de Correspondencia: 23.53%
+
+
+==================================================================================================
+(19 209429|---------|21 064703) "2x registros de 23%"
+=====================================================
+                                                                                               20%
+                                                                                               ===
+
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000020000000000004943
+Endereco Bitcoin: 13GwETWFDfDscJgR4XoF3G4DF4NQGdhwUK
+Percentual de Correspondencia: 20.59% ( 36893488147419121987 )
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000020000000000015c76
+Endereço Bitcoin: 13QSfEUbqrFsgw7Bj4bPVR4ce7Xs3ddmaz
+Percentual de Correspondência: 20.59% ( 36893488147419192438 ) # 70.451
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000020000000000021b2e
+Endereço Bitcoin: 13mTtiyWWtQV6SADTqBy215JUzorMUhRip
+Percentual de Correspondência: 20.59% ( 36893488147419241262 ) # 48.824
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000020000000000024588
+Endereço Bitcoin: 13KP2nQbPUpjCXw8MZgT4ETkYdZZiDY5ge
+Percentual de Correspondência: 20.59% ( 36893488147419252104 ) # 10.842
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000020000000000025dc0
+Endereço Bitcoin: 13d4dN7P1Zef6dDvtZnJvMRynLecpd2sRV
+Percentual de Correspondência: 20.59% ( 36893488147419258304 ) #  6.200
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000020000000000031b7b
+Endereço Bitcoin: 13J82ymbnV7Mfou9gxicTuD6gddmTYM5sH
+Percentual de Correspondência: 20.59% ( 36893488147419306875 ) # 48.571 
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000003cdc8
+Endereço Bitcoin: 13db1wdzoGRzjmbspXnA2FuZTd4yXUBxDQ
+Percentual de Correspondência: 20.59% ( 36893488147419352520 ) # 45.645
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000005811e
+Endereço Bitcoin: 13YuYBVSGjoGgEBZTZk583Vbn9ovaoK5mM
+Percentual de Correspondência: 20.59% ( 36893488147419463966 ) #111.446 <------------------------>
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000005d4eb
+Endereço Bitcoin: 13zRrUXoj8jxFwQqCDZPnUVuWZNTa5uRQo
+Percentual de Correspondência: 20.59% ( 36893488147419485419 ) # 21.453
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000020000000000062017
+Endereço Bitcoin: 13TPYtycTVq8eaRaPiKkbG4uDzNoJu2SfU
+Percentual de Correspondência: 20.59% ( 36893488147419504663 ) # 19.244
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000000628ef (**)
+Endereço Bitcoin: 13Z7XKQaX5aj2y1NvrNPjK6BnuEhLGqPzo
+Percentual de Correspondência: 20.59% ( 36893488147419506927 ) #  2.264
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000000632c0 (**)
+Endereço Bitcoin: 13kUFAcHGKLh2cKniqaaTGFmxdPYngXDso
+Percentual de Correspondência: 20.59% ( 36893488147419509440 ) #  2.513
+                                        |     TimeStamp    |
+---------------------------------------------------------------------------------------------
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000007c341
+Endereço Bitcoin: 13GywCZv2fD62yHRSEBP2S4MmsNLqh2qBM
+Percentual de Correspondência: 20.59% ( 36893488147419611969 ) #102.529 <------------------------>
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000007c3b5 (*)
+Endereço Bitcoin: 13YQhnQtWVRcB5tUKmcm1AHMyEMGSMPwKM
+Percentual de Correspondência: 17.65% ( 36893488147419612085 ) #    116 (este ñ é 20%)
+---------------------------------------------------------------------------------------------
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000020000000000091202
+Endereço Bitcoin: 13GbJjWiFcMHLL7ZRCSFoG1tUkhEqfhmTn
+Percentual de Correspondência: 20.59% ( 36893488147419697666 ) # 85.581
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000000a2e77
+Endereço Bitcoin: 13mgdXJT8iD92Xm12aeP5Gf1GiYC7Fh5GM
+Percentual de Correspondência: 20.59% ( 36893488147419770487 ) # 72.281
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000000b1ae6
+Endereço Bitcoin: 13y7t9fdcVHcs1mCApeaVK7H2dtGsphvss
+Percentual de Correspondência: 20.59% ( 36893488147419831014 ) # 60.527
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000000b9b43
+Endereço Bitcoin: 13841oQyKZVxqwbiTSzPaeTMzzDwRSszs7
+Percentual de Correspondência: 20.59% ( 36893488147419863875 ) # 32.861
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000000c089f
+Endereço Bitcoin: 13zeMWegWv2SoSZ5Wp1i23ufEPFYTtUZVo
+Percentual de Correspondência: 20.59% ( 36893488147419891871 ) # 27.996
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000001055b1
+Endereço Bitcoin: 13zH7XWYie3j24YZe7nweb4cC1sD2pB4HQ
+Percentual de Correspondência: 20.59% ( 36893488147420173745 ) #281.874 <<<-------------------->>>
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000020000000000107951 (**)
+Endereço Bitcoin: 13kbLZQmTnM9yG6qT3nvW1mpgBhAptfyQf
+Percentual de Correspondência: 20.59% ( 36893488147420182865 ) #  9.120
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000020000000000111d4e
+Endereço Bitcoin: 13RYvKQuN7Zc2TxvFZpP36mZLBWqBQiMqP
+Percentual de Correspondência: 20.59% ( 36893488147420224846 ) # 41.981
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000012ced0
+Endereço Bitcoin: 13jb2dVAWd7ibSZCmKoK2EiaMpHNHBFS92
+Percentual de Correspondência: 20.59% ( 36893488147420335824 ) #110.978 <------------------------->
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000013a063
+Endereço Bitcoin: 13Xp3PrEwqsEUE7Sc75PKGzZkbL1MHph6o
+Percentual de Correspondência: 20.59% ( 36893488147420389475 ) # 53.651
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000020000000000162c1a
+Endereço Bitcoin: 13EbSsgN2FS92TUC7LAdbGDqHJqt4ZhQVo
+Percentual de Correspondência: 20.59% ( 36893488147420556314 ) #166.839 <<----------------------->>
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000016b119
+Endereço Bitcoin: 13jtGkkv8dEcESHZ6mkPWoXQKYYkzd4b97
+Percentual de Correspondência: 20.59% ( 36893488147420590361 ) # 34.047
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000001894c1
+Endereço Bitcoin: 13Q71nUpPNsVvc7Z2LCb3ai3SR2ZndSvVC
+Percentual de Correspondência: 20.59% ( 36893488147420714177 ) #123.816 <------------------------->
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 000000000000000000000000000000000000000000000002000000000018af52 (***)
+Endereço Bitcoin: 135qXGi2JGsfaSHEqZzLrgdWEFJN9dgLd3
+Percentual de Correspondência: 20.59% ( 36893488147420720978 ) #  6.801
+         BRL, 000 000 001 nanosegundo   |     TimeStamp    | 
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000001d53ee
+Endereço Bitcoin: 13Jm1N1wG1NN4T7dYzzJ2wGHkSeKQ3hTyo
+Percentual de Correspondência: 20.59% ( 36893488147421025262 ) #304.284 <<<--------------------->>>
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000001d7a1f (***)
+Endereço Bitcoin: 13VrPYVx5V9R2CB9wovW2jAMDdSWif95DV
+Percentual de Correspondência: 20.59% ( 36893488147421035039 ) #  9.777
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 00000000000000000000000000000000000000000000000200000000001ef69c
+Endereço Bitcoin: 13r3whRVWiRB2gjd7jnP3nvQTWJqogQvu4
+Percentual de Correspondência: 20.59% ( 36893488147421132444 ) # 97.405 <------------------------->
+                                        |     TimeStamp    |
+Chave Privada (hexadecimal): 0000000000000000000000000000000000000000000000020000000000207453
+Endereço Bitcoin: 13JbQhpwYMFzPNhzcV9EMCXoK9WN8dZLXo
+Percentual de Correspondência: 20.59% ( 36893488147421230163 ) # 97.719 <------------------------->
+                                        |     TimeStamp    |
+
+
+
+Prova( 65 blocos resolvidos)
+============================
+Bloco#33 : Base2x33
+===================
+(4 294 967 296)                                  (8 589 934 591)
+00000000000000000000000000000000000000000000000000000001a96ca8d8 
+                                                 (7 137 437 912)
+
+
+0000000000000000000000000000000000000000000000000000000100000000
+00000000000000000000000000000000000000000000000000000001ffffffff
+----------------------------------------------------------------
+
+
+2ffffffffff|c9c66f : 251% (13z)  = 55Q 340 232 221 | 125 101 167
+2fffffffff|a2cb032 : 209% (13z)
+2fffffffff|b0a939a : 155% (13z)
+300000000|246a852f        (13z)
+300000000|19fa7c70        (13z)
+300000000|18941479        (13zb) = 55Q 340 232 221 | 541 012 601
+
+
+
+Estrutura de Banco de Dados
+===========================
+
+
+
+bloco = {
+
+'1Circulo': {
+
+0: '',
+1: '1D',
+2: '2D',
+3: '3D',
+4: '4D',
+5: '5D',
+6: '6D',
+7: '7D',
+8: '8D',
+9: ''
+
+},'2Circulo': {
+
+0: '',
+1: '1D',
+2: '2D',
+3: '3D',
+4: '4D',
+5: '5D',
+6: '6D',
+7: '7D',
+8: '8D',
+9: ''
+
+},'3Circulo': {
+
+0: '',
+1: '1D',
+2: '2D',
+3: '3D',
+4: '4D',
+5: '5D',
+6: '6D',
+7: '7D',
+8: '8D',
+9: ''
+
+},'4Circulo': {
+
+0: '',
+1: '1D',
+2: '2D',
+3: '3D',
+4: '4D',
+5: '5D',
+6: '6D',
+7: '7D',
+8: '8D',
+9: ''
+
+},'5Circulo': {
+
+0: '',
+1: '1D',
+2: '2D',
+3: '3D',
+4: '4D',
+5: '5D',
+6: '6D',
+7: '7D',
+8: '8D',
+9: ''
+
+},'6Circulo': {
+
+0: '',
+1: '1D',
+2: '2D',
+3: '3D',
+4: '4D',
+5: '5D',
+6: '6D',
+7: '7D',
+8: '8D',
+9: ''
+
+},'7Circulo': {
+
+0: '',
+1: '1D',
+2: '2D',
+3: '3D',
+4: '4D',
+5: '5D',
+6: '6D',
+7: '7D',
+8: '8D',
+9: ''
+
+},'8Circulo': {
+
+0: '',
+1: '1D',
+2: '2D',
+3: '3D',
+4: '4D',
+5: '5D',
+6: '6D',
+7: '7D',
+8: '8D',
+9: ''
+
+}}
+
+df = pd.DataFrame(bloco)
+
+print(df)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Logaritmo Binário : o logaritmo é o inverso da exponenciação, o logaritmo complexo é a função inversa da função exponencial aplicada a números complexos. O logaritmo discreto é outra variante; ele é utilizado na criptografia assimétrica.[13]
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
